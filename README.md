@@ -8,7 +8,7 @@ My nickname is Masum. I was born on 20 May 2000 at Karimganj thana  in  Kishoreg
 
 
 
-Skills:  HTML / CSS / JS / Boot Strap 
+<h3> Skills:  HTML / CSS / JS / Boot Strap <h3>
 
 - 🔭 I’m currently working on Fiveer 
 - 🌱 I’m currently learning Java Script 
