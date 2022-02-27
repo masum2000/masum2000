@@ -8,14 +8,14 @@ My nickname is Masum. I was born on 20 May 2000 at Karimganj thana  in  Kishoreg
 
 
 
-<h3 align="center"> Skills:  HTML / CSS / JS / Boot Strap <h3>
+<h3> Skills:  HTML / CSS / JS / Boot Strap <h3>
 
 - 🔭 I’m currently working on Fiveer 
 - 🌱 I’m currently learning Java Script 
 - 👯 I’m looking to collaborate on github 
 - 💬 Ask me about Web Development 
 
-<h3 align="center" color="tomato"> Also, Connect with me:</h3>
+<h3 align="center" text-color="tomato"> Also, Connect with me:</h3>
 <p align="center">
 <a href="https://twitter.com/https://twitter.com/mizanur24366727" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://twitter.com/mizanur24366727" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/mizanur-rahman-masum-083179194/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mizanur-rahman-masum-083179194/" height="30" width="40" /></a>
