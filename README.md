@@ -33,10 +33,10 @@ My nickname is Masum. I was born on 20 May 2000 at Karimganj thana  in  Kishoreg
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=masum2000&show_icons=true&count_private=true)  
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=masum2000)  
-
-![GitHub metrics](https://metrics.lecoq.io/masum2000)  
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=masum2000)   
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=masum2000)  
 
 ![Profile views](https://gpvc.arturio.dev/masum2000)  
+  
+![GitHub metrics](https://metrics.lecoq.io/masum2000) 
