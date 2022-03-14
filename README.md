@@ -1,6 +1,6 @@
 ![I am Web Developer](https://media-exp1.licdn.com/dms/image/C5616AQHUGvNou6FBzQ/profile-displaybackgroundimage-shrink_200_800/0/1600834368744?e=1651104000&v=beta&t=KuwMdvzG1ifD7h4QKAOhSfWohOAjii5disywcPXaymY)
 
-## Hi there 👋, This is Mizanur Rahman Masum
+## Hello , This is Mizanur Rahman Masum
 ### I am Web Developer
 
 
