@@ -4,7 +4,7 @@
 ### I am Web Developer
 
 
-My nickname is Masum. I was born on 20 May 2000 at Karimganj thana  in  Kishoreganj district . I am the youngest child of my parents. I have Three Brothers and Two Sisters. My religious is Islam. Since I am a Muslim so i love my Prophet and i love to prayer Allah. Currently I am studying in department of   Computer Science & Engineering at Daffodil International University . I am always try to gain knowledge. Tech  related work is my favourite .
+My nickname is Masum. I was born on 20 May 2000 at Karimganj thana  in  Kishoreganj district . Currently I am studying in department of   Computer Science & Engineering at Daffodil International University . I am always try to gain knowledge. Tech  related work is my favourite .
 
 
 
