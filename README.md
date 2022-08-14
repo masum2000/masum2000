@@ -3,18 +3,17 @@
 <h2 align="center"> Hello , This is Mizanur Rahman Masum<h2>
 <h5>My nickname is Masum. I was born on 20 May 2000 at Karimganj thana  in  Kishoreganj district . Currently I am studying in department of   Computer Science & Engineering at Daffodil International University . I am always try to gain knowledge. Tech  related work is my favourite .</h5>
 
-<h3 align="center"> Skills:  HTML / CSS / JS / Boot Strap <h3>
+<h3 align="center"> Skills:  HTML / CSS / JS / Bootstrap <h3>
 
 - 🔭 I’m currently working on Fiveer 
 - 🌱 I’m currently learning Java Script 
 - 👯 I’m looking to collaborate on github 
 - 💬 Ask me about Web Development: masumt999@gmail.com 
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=masum2000&theme=dark&show_icons=true&count_private=true) <br>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=masum2000&theme=dark&align=center) <br>
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=masum2000&theme=dark)
-![Profile views](https://gpvc.arturio.dev/masum2000)  
-
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=masum2000&show_icons=true&locale=en&layout=compact&theme=dark&hide_border=true" alt="masum2000"/></p>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=masum2000&show_icons=true&locale=en&theme=dark&hide_border=true" alt="masum2000" /></p>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=masum2000&theme=dark&hide_border=true" alt="masum2000"/></p>
+<p align="center"><img align="center" src=https://activity-graph.herokuapp.com/graph?username=masum2000&bg_color=011627&color=c691e9&line=7edac9&point=feea94&area=true&hide_border=true alt="masum2000" /></a> </p>
 
 
 <h3 align="center"> Also, Connect with me:</h3>
@@ -39,4 +38,9 @@
  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=masum2000&theme=dark)
  ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=masum2000&theme=dark)
  ![GitHub metrics](https://metrics.lecoq.io/masum2000) 
+ 
+ ![GitHub stats](https://github-readme-stats.vercel.app/api?username=masum2000&theme=dark&show_icons=true&count_private=true) <br>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=masum2000&theme=dark&align=center) <br>
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=masum2000&theme=dark)
+![Profile views](https://gpvc.arturio.dev/masum2000) 
 --> 
