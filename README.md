@@ -13,7 +13,7 @@
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=masum2000&show_icons=true&locale=en&layout=compact&theme=dark&hide_border=true" alt="masum2000"/></p>
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=masum2000&show_icons=true&locale=en&theme=dark&hide_border=true" alt="masum2000" /></p>
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=masum2000&theme=dark&hide_border=true" alt="masum2000"/></p>
-<p align="center"><img align="center" src=https://activity-graph.herokuapp.com/graph?username=masum2000&bg_color=011627&color=c691e9&line=7edac9&point=feea94&area=true&hide_border=true alt="masum2000" /></a> </p>
+<!-- <p align="center"><img align="center" src=https://activity-graph.herokuapp.com/graph?username=masum2000&bg_color=011627&color=c691e9&line=7edac9&point=feea94&area=true&hide_border=true alt="masum2000" /></a> </p> -->
 
 
 <h3 align="center"> Also, Connect with me:</h3>
