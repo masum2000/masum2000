@@ -1,12 +1,12 @@
 
 
-<h2 align="center"> Hello , This is Mizanur Rahman Masum<h2>
-<h5>My nickname is Masum. I was born on 20 May 2000 at Karimganj thana  in  Kishoreganj district . Currently I am studying in department of   Computer Science & Engineering at Daffodil International University . I am always try to gain knowledge. Tech  related work is my favourite .</h5>
+<h2 align="center"> Hello , I'm Mizanur Rahman Masum<h2>
+<h5>My nickname is Masum. I was born on 20 May 2000 at Karimganj thana  in  Kishoreganj district .Currently I am working as a trainer Web Development Course.This project name is HerPower Project which is under ICT division.I completed my graduation from  Daffodil International University  in department of   Computer Science & Engineering. I am always try to gain knowledge. Tech  related work is my favourite .</h5>
 
-<h3 align="center"> Skills:  HTML / CSS / JS / Bootstrap <h3>
+<h3 align="center"> Skills:  HTML / CSS / Bootstrap / JavaScript / React /  <h3>
 
-- 🔭 I’m currently working on Fiveer 
-- 🌱 I’m currently learning Java Script 
+- 🔭 I’m currently working on Fiveer and Web Development trainer of HerPower Project under ICT Division.
+- 🌱 I’m currently learning MERN 
 - 👯 I’m looking to collaborate on github 
 - 💬 Ask me about Web Development: masumt999@gmail.com 
 
